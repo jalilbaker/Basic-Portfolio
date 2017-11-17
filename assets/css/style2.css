@@ -23,21 +23,8 @@ header:after {
 	margin: 30px;
 
 }
-.port {
-	font-family: Times New Roman;
-	font-size: 40px;
-	font-weight: bold;
-	text-align: center;
-	padding: 20px 10px 1px 20px;
-}
-.com {
-	font-family: Times New Roman;
-	font-size: 30px;
-	text-align: center;
-	padding: 20px 10px 1px 20px;
-}
 .list {
-	background-color: #e6e6e6;
+	background-color: #e2e2e2;
 	color: grey;
 	font-family: arial;
 	float: right;
@@ -48,14 +35,14 @@ header:after {
 }
 .aboutme {
 	background-color: white;
-	padding: 20px 10px 50px 20px;
+	padding: 20px 10px 100px 20px;
 	float: left;
 	font-family: arial;
 	margin: 50px 800px 50px 100px;
 }
 .aboutline {
 	background-color: #666;
-	padding: 1px 4px 2px 1px;
+	padding: 1px 1px 2px 1px;
 	margin: 15px 1px 15px 1px;
 }
 .connect {
@@ -64,16 +51,13 @@ header:after {
 	font-family: arial;
 	float: right;
 	padding: 20px 10px 5px 20px;
-	margin: -475px 250px -100px 200px;
+	margin: -455px 250px -100px 200px;
 }
 #aboutme { 
 	text-decoration: none;
 	color: #009999;
 	font-weight: bold;
 	font-size: 33px;
-}
-.pic {
-	position: static;
 }
 .above {
 	background-color: blue;
@@ -86,4 +70,17 @@ footer {
 	text-align: center;
 	padding: 20px ;
 	margin: 10px 0px 0px 0px;
+}
+
+.navi {
+	
+}
+
+.contact {
+	width: 400px;
+	height: 150px;
+
+}
+input {
+	width: 300px;
 }
